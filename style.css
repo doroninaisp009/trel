@@ -440,3 +440,32 @@ h1{
     margin-left: 620px;
     margin-top: -87px;
 }
+.smallist {
+    width: 55px;
+    height: 55px;
+    border: 2px solid #005BC1;
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 675px;
+    margin-top: -55px;
+}
+.acces{
+    background-image: url(./img/acces.png);
+    width: 255px;
+    height: 250px;
+    display: flex;
+    padding: 30px;
+    background-size: contain;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+.robe{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: -280px;
+    margin-left: 340px;
+}
