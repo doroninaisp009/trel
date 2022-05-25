@@ -6,10 +6,12 @@
 
 @import url('https://fonts.googleapis.com/css2 ?family=Open+Sans&family=Oswald&display=swap');
 
+
+
 .header{
     width: 1920px;
     height: 800px;
-    background-image: url(./foto/Rectangle\ 2.png);
+    background-image: url(./img/Rectangle 2.png);
     margin: auto;
 }
 
@@ -42,7 +44,7 @@ ul{
 
 .logo{
     display: flex; 
-    background: rgba(0, 91, 193, 0.6);;
+    background: rgba(0, 91, 193, 0.6);
 
 }
 .logo_link{
